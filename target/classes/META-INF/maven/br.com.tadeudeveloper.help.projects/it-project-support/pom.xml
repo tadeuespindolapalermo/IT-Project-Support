@@ -1,0 +1,43 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>  
+    <groupId>br.com.tadeudeveloper.help.projects</groupId>
+    <artifactId>it-project-support</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <name>ITProjectSupport</name>
+    <description>This framework aims to help developers through features that are usually common to IT projects, especially those that involve software development!</description>
+    <url>http://tadeudeveloper.com.br</url>
+  
+    <parent>
+        <groupId>org.sonatype.oss</groupId>
+        <artifactId>oss-parent</artifactId>
+        <version>7</version>
+    </parent>   
+    
+    <scm>
+		<url>https://github.com/tadeuespindolapalermo/IT-Project-Support</url>
+		<connection>scm:git:git://github.com/tadeuespindolapalermo/IT-Project-Support.git</connection>
+		<developerConnection>scm:git:git@github.com:tadeuespindolapalermo/IT-Project-Support.git</developerConnection>
+	</scm>
+    
+    <licenses>
+        <license>
+    		<name>Mozilla Public License, Version 2.0</name>
+    		<url>http://www.mozilla.org/MPL/2.0/index.txt</url>
+        </license>
+	</licenses>
+	
+	<developers>
+    	<developer>
+        	<id>tadeuespindolapalermo</id>
+        	<name>Tadeu Espíndola Palermo</name>
+        	<email>tadeupalermoti@gmail.com</email>
+	        <roles>
+	           <role>project owner</role>
+	           <role>administrator</role>
+	           <role>developer</role>
+	        </roles>
+      		<timezone>-3</timezone>
+    	</developer>
+	</developers>
+  
+</project>
