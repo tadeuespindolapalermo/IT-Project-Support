@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.tadeudeveloper.help.projects</groupId>
 	<artifactId>it-project-support</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<name>ITProjectSupport</name>
 	<description>This framework aims to help developers through features that are usually common to IT projects, especially those that involve software development!</description>
 	<url>http://tadeudeveloper.com.br</url>
@@ -17,7 +17,7 @@
 		<url>https://github.com/tadeuespindolapalermo/IT-Project-Support</url>
 		<connection>scm:git:git://github.com/tadeuespindolapalermo/IT-Project-Support.git</connection>
 		<developerConnection>scm:git:git@github.com:tadeuespindolapalermo/IT-Project-Support.git</developerConnection>
-	  <tag>1.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<licenses>
