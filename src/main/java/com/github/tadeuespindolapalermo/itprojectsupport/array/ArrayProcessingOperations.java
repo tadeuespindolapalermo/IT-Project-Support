@@ -1,4 +1,4 @@
-package br.com.tadeudeveloper.help.projects.array;
+package com.github.tadeuespindolapalermo.itprojectsupport.array;
 
 /**
  * (en-us)

@@ -1,6 +1,6 @@
-package br.com.tadeudeveloper.help.projects.examples;
+package com.github.tadeuespindolapalermo.itprojectsupport.examples;
 
-import br.com.tadeudeveloper.help.projects.array.ArrayProcessingOperations;
+import com.github.tadeuespindolapalermo.itprojectsupport.array.ArrayProcessingOperations;
 
 public class ApplicationMain {
 
