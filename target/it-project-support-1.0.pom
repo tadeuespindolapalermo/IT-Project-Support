@@ -1,0 +1,68 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.github.tadeuespindolapalermo.itprojectsupport</groupId>
+	<artifactId>it-project-support</artifactId>
+	<version>1.0</version>
+	<packaging>jar</packaging>
+	<name>ITProjectSupport</name>
+	<description>This framework aims to help developers through features that are usually common to IT projects, especially those that involve software development!</description>
+	<url>https://github.com/tadeuespindolapalermo/IT-Project-Support</url>
+
+	<parent>
+		<groupId>org.sonatype.oss</groupId>
+		<artifactId>oss-parent</artifactId>
+		<version>7</version>
+	</parent>
+
+	<scm>
+		<url>https://github.com/tadeuespindolapalermo/IT-Project-Support</url>
+		<connection>scm:git:https://github.com/tadeuespindolapalermo/IT-Project-Support.git</connection>
+		<developerConnection>scm:git:https://github.com/tadeuespindolapalermo/IT-Project-Support.git</developerConnection>	  
+    <tag>v1.0</tag>
+  </scm>
+
+	<licenses>
+		<license>
+			<name>Mozilla Public License, Version 2.0</name>
+			<url>http://www.mozilla.org/MPL/2.0/index.txt</url>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<id>tadeuespindolapalermo</id>
+			<name>Tadeu Espíndola Palermo</name>
+			<email>tadeupalermoti@gmail.com</email>
+			<roles>
+				<role>project owner</role>
+				<role>administrator</role>
+				<role>developer</role>
+			</roles>
+			<timezone>-3</timezone>
+		</developer>
+	</developers>
+
+	<build>
+		<plugins>		
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-release-plugin</artifactId>
+				<version>2.5.3</version>
+				<configuration>
+					<pushChanges>false</pushChanges>
+				</configuration>
+			</plugin>
+			
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.7.0</version>
+				<configuration>
+					<source>8</source>
+					<target>8</target>
+				</configuration>
+			</plugin>			
+		</plugins>
+	</build>
+	
+</project>
