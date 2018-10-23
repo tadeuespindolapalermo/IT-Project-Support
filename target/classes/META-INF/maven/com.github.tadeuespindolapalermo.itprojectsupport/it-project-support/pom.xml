@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.tadeuespindolapalermo.itprojectsupport</groupId>
 	<artifactId>it-project-support</artifactId>
-	<version>1.0</version>
+	<version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>ITProjectSupport</name>
 	<description>This framework aims to help developers through features that are usually common to IT projects, especially those that involve software development!</description>
