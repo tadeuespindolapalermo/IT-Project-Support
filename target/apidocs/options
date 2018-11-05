@@ -1,0 +1,24 @@
+-classpath
+'/home/tadeu/eclipse-workspace/java-ee-2018-09/it-project-support/target/classes'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/tadeu/eclipse-workspace/java-ee-2018-09/it-project-support/src/main/java:/home/tadeu/eclipse-workspace/java-ee-2018-09/it-project-support/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2018. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/tadeu/eclipse-workspace/java-ee-2018-09/it-project-support/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ITProjectSupport 1.1 API'
+-link
+'http://java.sun.com/javase/6/docs/api'
+-use
+-version
+-windowtitle
+'ITProjectSupport 1.1 API'
