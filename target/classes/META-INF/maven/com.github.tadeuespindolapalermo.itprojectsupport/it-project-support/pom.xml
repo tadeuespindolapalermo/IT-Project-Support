@@ -18,7 +18,7 @@
 		<url>https://github.com/tadeuespindolapalermo/IT-Project-Support</url>
 		<connection>scm:git:https://github.com/tadeuespindolapalermo/IT-Project-Support.git</connection>
 		<developerConnection>scm:git:https://github.com/tadeuespindolapalermo/IT-Project-Support.git</developerConnection>	  
-    <tag>v1.1</tag>
+    <tag>v1.0</tag>
   </scm>
 
 	<licenses>
