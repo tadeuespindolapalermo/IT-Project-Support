@@ -8,7 +8,7 @@ public class ExamplesArrayProcessingOperations {
 
 	/**
 	 * Array values: "A", "B", 140, 5.4, "Text", 2L, 3F, new Date()
-	 * <p>
+	 * 
 	 * Example to get the length of the Object array
 	 */
 	public void processingArrayObject() {
@@ -20,7 +20,7 @@ public class ExamplesArrayProcessingOperations {
 
 	/**
 	 * Array values: "A", "B", "C"
-	 * <p>
+	 *
 	 * Example to get the length of the String array
 	 */
 	public void processingArrayString() {
@@ -32,17 +32,17 @@ public class ExamplesArrayProcessingOperations {
 
 	/**
 	 * Array values: 15, 7, 41, 602, 600, 945, 28, 34, 88, 89
-	 * <p>
+	 *
 	 * Example to obtain the length of the array of Integer type;
-	 * <p>
+	 * 
 	 * Example to obtain the sum of all elements of the array of Integer type;
-	 * <p>
+	 *
 	 * Example to obtain multiplication of all array elements of Integer type;
-	 * <p>
+	 * 
 	 * Example to obtain the subtraction of all array elements of the Integer type;
-	 * <p>
+	 * 
 	 * Example to obtain the division of all elements of the array of Integer type;
-	 * <p>
+	 * 
 	 */
 	public void processingArrayInteger() {
 		ArrayProcessingOperations<Integer> processingArrayInteger = new ArrayProcessingOperations<>();
@@ -61,17 +61,17 @@ public class ExamplesArrayProcessingOperations {
 
 	/**
 	 * Array values: 15.5, 7.1, 41.5, 602.8, 600.9, 945.2, 28.3, 34.0, 88.4, 89.6
-	 * <p>
+	 * 
 	 * Example to obtain the length of the array of Double type;
-	 * <p>
+	 * 
 	 * Example to obtain the sum of all elements of the array of Double type;
-	 * <p>
+	 * 
 	 * Example to obtain multiplication of all array elements of Double type;
-	 * <p>
+	 * 
 	 * Example to obtain the subtraction of all array elements of the Double type;
-	 * <p>
+	 * 
 	 * Example to obtain the division of all elements of the array of Double type;
-	 * <p>
+	 * 
 	 * *
 	 */
 	public void processingArrayDouble() {
@@ -93,17 +93,17 @@ public class ExamplesArrayProcessingOperations {
 	/**
 	 * Array values: 15.9f, 7.8f, 41.3f, 602.1f, 600.2f, 945.5f, 28.7f, 34.4f,
 	 * 8888.0f, 89.5f
-	 * <p>
+	 * 
 	 * Example to obtain the length of the array of Float type;
-	 * <p>
+	 * 
 	 * Example to obtain the sum of all elements of the array of Float type;
-	 * <p>
+	 * 
 	 * Example to obtain multiplication of all array elements of Float type;
-	 * <p>
+	 *
 	 * Example to obtain the subtraction of all array elements of the Float type;
-	 * <p>
+	 * 
 	 * Example to obtain the division of all elements of the array of Float type;
-	 * <p>
+	 * 
 	 */
 	public void processingArrayFloat() {
 		ArrayProcessingOperations<Float> processingArrayFloat = new ArrayProcessingOperations<>();
@@ -123,17 +123,17 @@ public class ExamplesArrayProcessingOperations {
 
 	/**
 	 * Array values: 15L, 7L, 41L, 602L, 600L, 945L, 28L, 34L, 8888L, 89L
-	 * <p>
+	 * 
 	 * Example to obtain the length of the array of Long type;
-	 * <p>
+	 * 
 	 * Example to obtain the sum of all elements of the array of Long type;
-	 * <p>
+	 * 
 	 * Example to obtain multiplication of all array elements of Long type;
-	 * <p>
+	 *
 	 * Example to obtain the subtraction of all array elements of the Long type;
-	 * <p>
+	 *
 	 * Example to obtain the division of all elements of the array of Long type;
-	 * <p>
+	 * 
 	 */
 	public void processingArrayLong() {
 		ArrayProcessingOperations<Long> processingArrayLong = new ArrayProcessingOperations<>();
