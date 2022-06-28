@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.github.tadeuespindolapalermo.itprojectsupport.array"},{"l":"com.github.tadeuespindolapalermo.itprojectsupport.examples"},{"l":"com.github.tadeuespindolapalermo.itprojectsupport.utilities"}];updateSearchResults();
